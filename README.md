@@ -1,5 +1,5 @@
 # jiushi-new-world
-## ⁠"J·N·W" is an Open-World 3D ARPG.
+## ⁠JNW is an Open-World 3D ARPG.
 **无限免费抽卡 / 無限免費抽卡**
 **Unlimited Free Pulls (無制限無料ガチャ)**
 
