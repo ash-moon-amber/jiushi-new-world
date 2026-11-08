@@ -35,7 +35,7 @@
 * **Debug Workbench**
   * TAU (Telemetry, Audit trail & debug Utility)
   * Architect: ash_moon_amber / 灰月琥珀
-  * Stack: Avalonia C# (macOS / Windows)
+  * Platform: PC (Windows / macOS) 
 
 ---
 
