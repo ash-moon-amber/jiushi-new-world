@@ -39,4 +39,4 @@
 
 ---
 
-J·N·W  © 2026 ash_moon_amber (灰月琥珀)
+J·N·W  © 2026 [ash_moon_amber (灰月琥珀)](https://ash-moon-amber.github.io/ama/profile.html)
